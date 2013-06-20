@@ -1,0 +1,2 @@
+gedit-findinfile-external-tool
+==============================
