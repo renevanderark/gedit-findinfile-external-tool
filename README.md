@@ -12,3 +12,5 @@ Usage:
 3. Copy/paste contents of source.py under Edit:
 
 4. Optionally add a shortcut and make sure Output is set to 'Display in bottom pane'
+
+![preview](https://raw.github.com/renevanderark/gedit-findinfile-external-tool/master/screenshot.png)
